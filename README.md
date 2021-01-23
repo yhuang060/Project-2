@@ -1,4 +1,4 @@
-# Project-2
+# Project-2 Salary Prediction with Learning Regression
 Project 2
 
 Project title: Predicting Annual Salary with Linear Regression<br/><br/>
