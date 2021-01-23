@@ -4,7 +4,7 @@ Project 2
 Project title: Predicting Annual Salary with Linear Regression<br/><br/>
 Description: Collect data from indeed.com and predict annual Salary from Job title, company, and other features<br/><br/>
 Data: indeed.com (Web Scraping)<br/><br/>
-Tool Used: Beautiful Soup, Selenium, Seaborn, Pandas, Numpy<br/><br/>
+Tool Used: Beautiful Soup, Selenium, Seaborn,matplotlib, Pandas, Numpy, scikit-learn<br/><br/>
 Features: <br/>
   - Job title
   - Industry
