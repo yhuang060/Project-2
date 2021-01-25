@@ -7,7 +7,7 @@ Description: One of big chellenges of graduating students is unsuring how to neg
 
 Data:  I collected all the data from indeed.com(Web Scraping), including total 950 observations and 12 variables.<br/><br/>
 
-Tool Used: Beautiful Soup, Selenium, Seaborn,matplotlib, Pandas, Numpy, scikit-learn<br/><br/><br/>
+Tool Used: Beautiful Soup, Selenium, Seaborn,matplotlib, Pandas, Numpy, scikit-learn<br/><br/>
 
 Target Variable: Annual Salary<br/>
 
@@ -22,7 +22,7 @@ Features Variable: <br/>
   - Company Benefit rate
   - Company headquarter location in state
   - Interview difficulty (Easy/Midium/Hard)
-  - Interview process length 
+  - Interview process length <br/><br/>
 
 Impact: <br/>
 This model could help people to get some idea before they negotiate salary with next employer. For employed people, they can use this model to review if they get reasonable pay from employee.<br/><br/>
